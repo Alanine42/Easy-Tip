@@ -4,7 +4,7 @@
 
 Submitted by: **Yupeng Sun**
 
-Time spent: **12** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -40,13 +40,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 I was a newbie to Xcode and UI design, so it took me a while to comprehend the beauty (and simplicity) of control-drag. 
-Passing data between view controllers.
 
-update the user-set values to the segmented control display. Creating a custom segmented control requires actual coding rather than simply dragging.  
+Update the user-set values to the segmented control display (I spent quite a bit of time finding the method setTitle()). Exploring the methods of various UIelement is a little challenging but also quite fun.
 
-*Working with the new Xcode12 while learning on the older-version tutorials is undeniably a source of challenges. But I guess it's just a thing every developer has to go through to keep up with the unceasing evolution of programming.
+Many tutorials create UIelements through code, which grant more control of the elements but that looks daunting and non-intuitive at first. 
 
-Many tutorials create UIelements through code, which is quite different from the dragging approach
+Working with the new Xcode12 while learning on the older-version tutorials is undeniably a source of challenges. But I guess it's just a thing every developer has to go through to keep up with the unceasing evolution of programming.
 
 ## License
 
