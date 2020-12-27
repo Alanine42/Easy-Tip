@@ -27,19 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/8MiuxIF.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-1.
-[![r4wjbQ.gif](https://s3.ax1x.com/2020/12/26/r4wjbQ.gif)](https://imgchr.com/i/r4wjbQ)
 
-2.
-[![r4d6Og.gif](https://s3.ax1x.com/2020/12/26/r4d6Og.gif)](https://imgchr.com/i/r4d6Og)
-
-3.
-[![r40ArF.gif](https://s3.ax1x.com/2020/12/26/r40ArF.gif)](https://imgchr.com/i/r40ArF)
-
-4.
-[![r408qe.gif](https://s3.ax1x.com/2020/12/26/r408qe.gif)](https://imgchr.com/i/r408qe)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
